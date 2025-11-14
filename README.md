@@ -1,7 +1,9 @@
 # Hospitality Analytics Project: Performance Analysis
 
 ## Project Overview
-### This project delivers a comprehensive, data-driven analysis of hotel booking and revenue performance for AtliQ Hotels, a fictional hospitality brand. Using real-world data analytics techniques, the project uncovers key insights into booking patterns, occupancy trends, customer behavior and revenue distribution across cities, hotel categories and booking platforms.
+This project presents a comprehensive, data-driven analysis of hotel booking, occupancy, and revenue performance for AtliQ Hotels, a fictional hospitality brand. The goal of this analysis is to understand how customers book rooms, how hotel categories perform across cities, and what factors influence revenue generation.
+
+Using Python and real-world analytics workflows, this project uncovers patterns in booking behavior, occupancy efficiency, revenue distribution, customer satisfaction, and platform-wise booking trends. These insights help hospitality businesses make informed decisions related to pricing, marketing, demand forecasting, and operational optimization.
 
 
 ## Problem Statement & Objectives
