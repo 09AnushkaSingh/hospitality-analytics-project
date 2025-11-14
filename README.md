@@ -8,84 +8,68 @@ Using Python and real world analytics workflows, this project uncovers patterns 
 
 ## Problem Statement & Objectives
 The hospitality industry depends heavily on demand forecasting, customer behavior analysis and revenue management. AtliQ Hotels seeks to leverage data to understand:
-
-What drives occupancy across hotel categories and cities
-Why revenue fluctuates across platforms, months and segments
-How customer ratings impact performance
-How aggregated and individual booking behavior influence business outcomes
+* What drives occupancy across hotel categories and cities
+* Why revenue fluctuates across platforms, months and segments
+* How customer ratings impact performance
+* How aggregated and individual booking behavior influence business outcomes
 This analysis was conducted to systematically explore booking trends, identify hidden business patterns and support decision making related to pricing strategy, operational efficiency and revenue improvement.
 
 ## The main objectives include:
-Analyze occupancy trends across cities, seasons and hotel categories
-Identify revenue drivers across hotel types, room categories and booking channels
-Study customer behavior through ratings, booking status, stay duration and guest counts
-Examine month wise and platform wise booking patterns
-Merge fact and dimension tables to build a clean analytical dataset
-Generate insights that support data driven decisions
+* Analyze occupancy trends across cities, seasons and hotel categories
+* Identify revenue drivers across hotel types, room categories and booking channels
+* Study customer behavior through ratings, booking status, stay duration and guest counts
+* Examine month wise and platform wise booking patterns
+* Merge fact and dimension tables to build a clean analytical dataset
+* Generate insights that support data driven decisions
 
 ## Data Source
 The analysis uses five structured CSV datasets, similar to standard data-warehouse design (fact & dimension tables):
-
-dim_date.csv – Date attributes (month, weekday, year, etc.)
-
-dim_hotels.csv – Hotel-level info (city, hotel category, property details)
-
-dim_rooms.csv – Room categories and capacities
-
-fact_aggregated_bookings.csv – Monthly aggregated occupancy & capacity
-
-fact_bookings.csv – Individual booking records (platform, guests, ratings, revenue, status)
+* dim_date.csv – Date attributes (month, weekday, year, etc.)
+* dim_hotels.csv – Hotel-level info (city, hotel category, property details)
+* dim_rooms.csv – Room categories and capacities
+* fact_aggregated_bookings.csv – Monthly aggregated occupancy & capacity
+* fact_bookings.csv – Individual booking records (platform, guests, ratings, revenue, status)
 
 ## Tools Used
-Python: Pandas, NumPy, Matplotlib, Seaborn
-
-Jupyter Notebook
-
-Techniques Applied:
-Data cleaning & preprocessing
-
-Handling missing values & inconsistent formats
-
-Exploratory Data Analysis (EDA)
-
-Statistical aggregation & group-by analysis
-
-Trend analysis & visualization
+* Python: Pandas, NumPy, Matplotlib, Seaborn
+* Jupyter Notebook
+* Techniques Applied:
+     * Data cleaning & preprocessing
+     * Handling missing values & inconsistent formats
+     * Exploratory Data Analysis (EDA)
+     * Statistical aggregation & group-by analysis
+     * Trend analysis & visualization
 
 ## Key Features & Analyses
-Occupancy Analysis:
+* Occupancy Analysis:
 Compared occupancy percentages across hotel types, cities, and seasons to identify high-performing and underperforming segments.
 
-Revenue Insights:
+* Revenue Insights:
 Analyzed city-wise, month-wise, and platform-wise revenue trends to understand business performance patterns.
 
-Customer Behavior Analysis:
+* Customer Behavior Analysis:
 Studied customer ratings, booking status (Cancelled/Checked-out), stay durations, and reservation patterns.
 
-Platform Analysis:
+* Platform Analysis:
 Compared performance of online travel agencies vs direct bookings.
 
-Visualization:
+* Visualization:
 Created bar charts, time-series plots, pie charts, and heatmaps to highlight trends and KPIs.
 
-Merged Dataset Creation:
+* Merged Dataset Creation:
 Combined fact and dimension tables into a unified, analysis-ready dataset for better insights.
 
 ## How to View the Report
-Open the Hotels Analysis.ipynb file directly on GitHub or Jupyter Notebook.
-
-Run the notebook cells sequentially to explore:
-Data cleaning
-
-Feature engineering
-
-Exploratory data analysis
-
-All charts, insights, and conclusions
+* Open the Hotels Analysis.ipynb file directly on GitHub or Jupyter Notebook.
+* Run the notebook cells sequentially to explore:
+     * Data cleaning
+     * Feature engineering
+     * Exploratory data analysis
+     * All charts, insights, and conclusions
 
 ## Author
-Name: Anushka Singh
-Institution: Gokhale Institute of Politics and Economics
-Github: 
-Linkedin: 
-Date: November 2025
+* Name: Anushka Singh
+* Institution: Gokhale Institute of Politics and Economics
+* Github: 
+* Linkedin: 
+* Date: November 2025
