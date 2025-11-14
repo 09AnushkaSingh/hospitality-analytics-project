@@ -12,6 +12,7 @@ The hospitality industry depends heavily on demand forecasting, customer behavio
 * Why revenue fluctuates across platforms, months and segments
 * How customer ratings impact performance
 * How aggregated and individual booking behavior influence business outcomes
+  
 This analysis was conducted to systematically explore booking trends, identify hidden business patterns and support decision making related to pricing strategy, operational efficiency and revenue improvement.
 
 ## The main objectives include:
@@ -70,6 +71,6 @@ Combined fact and dimension tables into a unified, analysis-ready dataset for be
 ## Author
 * Name: Anushka Singh
 * Institution: Gokhale Institute of Politics and Economics
-* Github: 
-* Linkedin: 
+* Github: https://github.com/09AnushkaSingh
+* Linkedin: https://www.linkedin.com/in/anushka09singh/
 * Date: November 2025
