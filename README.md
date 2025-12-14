@@ -1,7 +1,7 @@
 # Hospitality Analytics: Exploratory Data Analysis (EDA) using Python 
 
 ## Project Overview
-**Project Type:** Exploratory Data Analysis (EDA)
+**Project Type:** Exploratory Data Analysis (EDA) <br>
 **Skills Demonstrated:** Data Cleaning, EDA, Business Insights, Visualization 
 
 This project presents a comprehensive, data-driven analysis of hotel booking, occupancy and revenue performance for AtliQ Hotels, a fictional hospitality brand. The goal of this analysis is to understand how customers book rooms, how hotel categories perform across cities and what factors influence revenue generation.
