@@ -51,8 +51,8 @@ The analysis uses five structured CSV datasets, similar to standard data-warehou
 
 
 ## Project Scope & Technical Depth:
-  Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA
-    * Core Focus: Statistical outlier management (3 sigma) data merging and hospitality-specific metric derivation.
+  Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA <br>
+    * Core Focus: Statistical outlier management (3 sigma) data merging and hospitality-specific metric derivation.   <br>
     * Future Enhancements: Advanced statistical visualizations (Correlation Heatmaps and Bivariate Distributions) are being implemented in my upcoming "Master EDA" project to further explore predictive patterns.  
 
 
