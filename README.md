@@ -35,10 +35,10 @@ The analysis uses five structured CSV datasets, similar to standard data-warehou
 
 
 ## Technical Workflow & Analysis
- ### 1. Data Cleaning & Integrity** 
-     **Guest Validation**: Removed records with negative guest counts (data entry errors).
-     **Revenue Outlier Removal**: Implemented the 3-Standard Deviation rule to eliminate invalid revenue entries, preventing skewed averages. 
-     **Missing Value Imputation**: Filled null capacity values in the aggregate dataset using the median to ensure reporting consistency. 
+  1. Data Cleaning & Integrity
+     * Guest Validation: Removed records with negative guest counts (data entry errors).
+     * Revenue Outlier Removal: Implemented the 3-Standard Deviation rule to eliminate invalid revenue entries, preventing skewed averages. 
+     * Missing Value Imputation: Filled null capacity values in the aggregate dataset using the median to ensure reporting consistency. 
 
  **2. Feature Engineering & Transformation** <br>
      * Occupancy KPI: Created the occ_pct (Occupancy Percentage) metric to standardize performance comparison between hotels of different sizes. 
