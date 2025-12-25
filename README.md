@@ -40,20 +40,20 @@ The analysis uses five structured CSV datasets, similar to standard data-warehou
      * Revenue Outlier Removal: Implemented the 3-Standard Deviation rule to eliminate invalid revenue entries, preventing skewed averages. 
      * Missing Value Imputation: Filled null capacity values in the aggregate dataset using the median to ensure reporting consistency. 
 
- **2. Feature Engineering & Transformation** <br>
+  2. Feature Engineering & Transformation
      * Occupancy KPI: Created the occ_pct (Occupancy Percentage) metric to standardize performance comparison between hotels of different sizes. 
      * Data Merging: Joined dimension tables with fact tables to enable multi-dimensional analysis (e.g., Revenue by City, Occupancy by Room Class). 
 
- **3. Key Business Insights**
+  3. Key Business Insights
      * City Leaders: Delhi maintains the highest average occupancy (~61.5%) while Mumbai generates the maximum total revenue (~₹668.6M) 
      * Weekly Trends: Occupancy spikes significantly on weekends (~72%) vs. weekdays (~51%), highlighting a strong weekend leisure travel market.
      * Room Performance: Presidential Suites (RT4) maintain a high occupancy rate of ~59%, suggesting strong demand for premium offerings. 
 
 
 ## Project Scope & Technical Depth
-**Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA.** <br>
-* Core Focus: Statistical outlier management (3 sigma) data merging and hospitality-specific metric derivation.  
-     * Future Enhancements: Advanced statistical visualizations (Correlation Heatmaps and Bivariate Distributions) are being implemented in my upcoming "Master EDA" project to further explore predictive patterns.  
+ Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA.
+    * Core Focus: Statistical outlier management (3 sigma) data merging and hospitality-specific metric derivation.  
+    * Future Enhancements: Advanced statistical visualizations (Correlation Heatmaps and Bivariate Distributions) are being implemented in my upcoming "Master EDA" project to further explore predictive patterns.  
 
 
 ## Tools Used
