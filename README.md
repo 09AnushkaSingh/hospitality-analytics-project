@@ -48,10 +48,10 @@ The analysis uses five structured CSV datasets, similar to standard data-warehou
      * City Leaders: Delhi maintains the highest average occupancy (~61.5%) while Mumbai generates the maximum total revenue (~₹668.6M) 
      * Weekly Trends: Occupancy spikes significantly on weekends (~72%) vs. weekdays (~51%), highlighting a strong weekend leisure travel market.
      * Room Performance: Presidential Suites (RT4) maintain a high occupancy rate of ~59%, suggesting strong demand for premium offerings.
-     * 
+       
 
 ## Project Scope & Technical Depth:
-  Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA <br>
+  * Note to Recruiters: This project specifically focuses on the Data Cleaning, Integrity and Business KPI aspect of EDA <br>
      * Core Focus: Statistical outlier management (3 sigma) data merging and hospitality-specific metric derivation.   <br>
      * Future Enhancements: Advanced statistical visualizations (Correlation Heatmaps and Bivariate Distributions) are being implemented in my upcoming "Master EDA" project to further explore predictive patterns.  
 
